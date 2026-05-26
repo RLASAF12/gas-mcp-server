@@ -69,6 +69,12 @@ npm run dev
 
 ### Connect to Claude
 
+**Hosted version (recommended):**
+1. In Claude → Settings → Integrations → Add custom connector
+2. Enter: `https://gas-mcp-server-51191653129.europe-west1.run.app/mcp`
+3. Authenticate with Google when prompted
+
+**Self-hosted:**
 1. Deploy the server (see Deployment below)
 2. In Claude → Settings → Integrations → Add custom connector
 3. Enter your server URL: `https://YOUR-SERVER-URL/mcp`
