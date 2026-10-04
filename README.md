@@ -1,3 +1,5 @@
+> **Archived.** This repo moved to [RLASAF12/agent-starters](https://github.com/RLASAF12/agent-starters/tree/main/gas-mcp-server) (folder `gas-mcp-server/`, full history preserved). Archived 2026-10-04.
+
 # Google Apps Script Connector for Claude
 
 > Connect Claude to Google Apps Script. Authenticate with Google and Claude can list, read, edit, deploy, and run your Apps Script projects.
